@@ -1738,11 +1738,7 @@ section {
    ======================================== */
 
 /* Tablet */
-@media screen and (max-width: 480px) {
-  .quick-links-menu {
-    display: none !important;
-  }
-
+@media screen and (max-width: 1080px) {
   .about-grid {
     grid-template-columns: 1fr;
   }
