@@ -1739,9 +1739,6 @@ section {
 
 /* Tablet */
 @media screen and (max-width: 1024px) {
-  .quick-links-menu {
-    display: none;
-  }
 
   .about-grid {
     grid-template-columns: 1fr;
