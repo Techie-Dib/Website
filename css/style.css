@@ -1754,6 +1754,9 @@ section {
 
 /* Mobile */
 @media screen and (max-width: 768px) {
+  .quick-links-menu {
+    display: flex !important;   
+  }
   /* Navigation */
   .floating-nav {
     width: calc(100% - 40px);
